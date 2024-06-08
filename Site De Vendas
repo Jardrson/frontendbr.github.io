@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao meu site!</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Início</a></li>
+                <li><a href="#about">Sobre</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <p>Esta é a seção inicial do meu site.</p>
+    </section>
+
+    <section id="about">
+        <h2>Sobre Mim</h2>
+        <p>Aqui vai um pouco sobre quem eu sou.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contato</h2>
+        <p>Entre em contato comigo através do e-mail: meuemail@example.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Meu Site</p>
+    </footer>
+</body>
+</html>    
